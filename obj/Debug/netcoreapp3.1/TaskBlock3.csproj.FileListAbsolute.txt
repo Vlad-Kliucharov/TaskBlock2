@@ -1,0 +1,13 @@
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.exe
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.deps.json
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.runtimeconfig.json
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.runtimeconfig.dev.json
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.dll
+C:\Users\vkliucharov\source\repos\TaskBlock3\bin\Debug\netcoreapp3.1\TaskBlock3.pdb
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.csprojAssemblyReference.cache
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.AssemblyInfoInputs.cache
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.AssemblyInfo.cs
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.csproj.CoreCompileInputs.cache
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.dll
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.pdb
+C:\Users\vkliucharov\source\repos\TaskBlock3\obj\Debug\netcoreapp3.1\TaskBlock3.genruntimeconfig.cache
